@@ -2,7 +2,6 @@
 title: Murch and Enterprise Wallets/UTXO Management - Episode 8
 transcript_by: Emmanuel-Develops via review.btctranscripts.com
 media: https://www.youtube.com/watch?v=yy6Mt5-fl0g
-categories: ["Podcast"]
 date: 2020-11-09
 ---
 
