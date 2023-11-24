@@ -1,5 +1,5 @@
 ---
-title: Scaling with LND - TABConf 2021
+title: "Scaling with LND - TABConf 2021"
 transcript_by: Emmanuel-Develops via review.btctranscripts.com
 media: https://www.youtube.com/watch?v=W-Ev_MZAdgA
 speakers: ["Alex Bosworth"]
