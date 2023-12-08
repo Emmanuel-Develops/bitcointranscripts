@@ -1,10 +1,10 @@
 ---
-title: Lightning is Broken AF (But We Can Fix It)
+title: "Lightning is Broken AF (But We Can Fix It)"
 transcript_by: Emmanuel-Develops via review.btctranscripts.com
 media: https://www.youtube.com/watch?v=s9KMRWkcwtE
 tags: ["lightning"]
 speakers: ["Matt Corallo"]
-categories: ["conference"]
+categories: ["Core-Dev-Tech"]
 date: 2022-10-14
 ---
 
