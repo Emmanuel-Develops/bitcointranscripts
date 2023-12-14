@@ -1,6 +1,6 @@
 ---
 title: Taproot on hardware wallets
-transcript_by: Michael Folkson
+transcript_by: Michael Folkson via TSTBTC --needs-review
 categories: ['conference']
 tags: ['schnorr', 'taproot', 'hardware wallet']
 speakers: ['Stepan Snigirev']
