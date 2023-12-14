@@ -2,7 +2,7 @@
 title: Privacy On Lightning
 speakers: ['Bastien Teinturier']
 date: 2021-11-17
-transcript_by: freddiekrugerrand
+transcript_by: freddiekrugerrand via TSTBTC --needs-review
 categories: ['conference']
 tags: ['lightning', 'privacy']
 media: https://www.youtube.com/watch?v=gOiKlx9a1xg
