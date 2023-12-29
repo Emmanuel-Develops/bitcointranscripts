@@ -1,6 +1,6 @@
 ---
 title: Miniscript
-transcript_by: Michael Folkson
+transcript_by: Michael Folkson via TSTBTC --needs-review
 categories: ['conference']
 tags: ['miniscript', 'wallet']
 speakers: ['Andrew Poelstra']
