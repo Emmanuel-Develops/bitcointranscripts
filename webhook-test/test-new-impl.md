@@ -14,6 +14,8 @@ Location: TABConf (The Atlanta Bitcoin Conference)
 
 Slides: <https://download.wpsoftware.net/bitcoin/wizardry/2021-11-tabconf/slides.pdf>
 
+extra text to modify file 🙃
+
 # Intro
 
 I am here to talk about Miniscript. This is something that I have talked about a few times [before](https://btctranscripts.com/london-bitcoin-devs/2020-02-04-andrew-poelstra-miniscript/) but usually in a much more technical way where we get into the weeds of Bitcoin Script and what Miniscript is and how to use it and stuff. I want to talk today about Miniscript from the perspective of someone actually trying to use Bitcoin and how this solves problems that I think are very important in the space regarding how to custody your coins, how to keep track of your keys, stuff like that.
