@@ -1,6 +1,6 @@
 ---
 title: Bitcoin Multi-signature
-transcript_by: Stephan Livera
+transcript_by: Stephan Livera via TSTBTC --needs-review
 categories: ['podcast']
 speakers: ['Craig Raw']
 date: 2023-02-27
