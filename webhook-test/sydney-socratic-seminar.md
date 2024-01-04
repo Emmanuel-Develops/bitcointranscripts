@@ -18,6 +18,7 @@ Location: Bitcoin Sydney (online)
 
 this is a test save
 here is another test save
+this should not append new line to the top and bottom of the body
 
 FROST paper: <https://eprint.iacr.org/2020/852.pdf>
 
