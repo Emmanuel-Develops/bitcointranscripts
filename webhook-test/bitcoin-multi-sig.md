@@ -1,11 +1,12 @@
 ---
-title: Bitcoin Multi-signature
-transcript_by: Stephan Livera via TSTBTC --needs-review
-categories: ['podcast']
-speakers: ['Craig Raw']
-date: 2023-02-27
+title: Bitcoin Multi-signaturee
+transcript_by: Emmanuel-Develops via review.btctranscripts.com
 media: https://stephanlivera.com/download-episode/6034/462.mp3
+speakers: ["Craig Raw"]
+categories: ["podcast"]
+date: 2023-02-27
 ---
+
 podcast: https://stephanlivera.com/episode/462/
 
 Stephan  – 00:02:53 Craig, welcome back to the show.
@@ -217,3 +218,4 @@ Thank you, Steohant. It’s been great to be here again. Yeah, it’s looking fo
 Stephan :
 
 Get the show notes over @stephanlivera.com/462. Thanks for listening, and I’ll see you in the Citadels.
+
