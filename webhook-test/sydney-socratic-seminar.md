@@ -9,6 +9,7 @@ date: 2022-03-29
 
 
 
+
 Name: Socratic Seminar w/ Jesse Posner
 
 Topic: FROST
@@ -489,5 +490,6 @@ JP: No it wasn’t at the time. I was just speculating on what it might be doing
 NF: I doubt it would be doing hot wallet withdrawals with it purely based on what Lloyd said. There are not many Taproot addresses being used. They could do something like cold wallet to hot wallet withdrawals with something like FROST, that could be possible.
 
 MF: At least on the date of the blog post which is October 2021 it sounds like it is just a proof of concept. They are not actually using it in production. It says “We look forward to adding it to our suite of threshold signing services”.
+
 
 
