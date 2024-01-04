@@ -2,7 +2,7 @@
 title: Bitcoin Multi-signatures
 transcript_by: Emmanuel-Develops via review.btctranscripts.com
 media: https://stephanlivera.com/download-episode/6034/462.mp3
-speakers: ["Craig Raw"]
+speakers: ["Craig Raw","Adam Back"]
 categories: ["podcast"]
 date: 2023-02-27
 ---
