@@ -1,8 +1,9 @@
 ---
 title: Signature Aggregation Update
-transcript_by: test via TSTBTC --needs-review
-categories: ['core-dev-tech']
-tags: ['bitcoin core', 'signature aggregation']
+transcript_by: Emmanuel-Develops via review.btctranscripts.com
+media: undefined
+tags: ["bitcoin core","signature aggregation"]
+categories: ["core-dev-tech"]
 date: 2023-09-21
 ---
 
