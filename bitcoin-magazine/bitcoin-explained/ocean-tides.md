@@ -1,10 +1,8 @@
 ---
-title: "Ocean Tides"
-transcript_by: kouloumos via tstbtc v1.0.0 --needs-review
+title: Ocean Tides
+transcript_by: Emmanuel-Develops via review.btctranscripts.com
 media: https://bitcoinexplainedpodcast.com/@nado/episodes/episode-86-ocean-tides-hktbg
-tags: []
-speakers: ['Sjors Provoost', 'Aaron van Wirdum']
-categories: []
+speakers: ["Sjors Provoost","Aaron van Wirdum","Adam Back"]
 date: 2023-12-06
 ---
 Speaker 0: 00:00:21
