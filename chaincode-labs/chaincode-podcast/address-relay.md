@@ -2,7 +2,7 @@
 title: "Address Relay"
 transcript_by: Emmanuel-Develops via review.btctranscripts.com
 media: https://podcasters.spotify.com/pod/show/chaincode/episodes/Martin-Zumsande-and-Address-Relay---Episode-20-e1if91d
-speakers: ["Martin Zumsande","Adam Back","Yonatan Sompolinsky (2)"]
+speakers: ["Martin Zumsande","Adam Back"]
 categories: ["podcast"]
 date: 2022-05-13
 ---
