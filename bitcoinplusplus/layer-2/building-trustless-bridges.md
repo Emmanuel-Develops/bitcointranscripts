@@ -2,7 +2,7 @@
 title: "Building Trustless Bridges"
 transcript_by: Emmanuel-Develops via review.btctranscripts.com
 media: https://www.youtube.com/watch?v=M40yzuv6DNY
-speakers: ["John Light","Adam Back"]
+speakers: ["John Light"]
 categories: ["conference"]
 date: 2023-07-06
 ---
