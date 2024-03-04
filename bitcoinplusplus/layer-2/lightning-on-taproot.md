@@ -1,11 +1,11 @@
 ---
 title: "Lightning on Taproot"
-transcript_by: kouloumos via tstbtc v1.0.0 --needs-review
+transcript_by: Emmanuel-Develops via review.btctranscripts.com
 media: https://www.youtube.com/watch?v=E_z4hjvVzoQ
-tags: ['lightning', 'taproot']
-speakers: []
-categories: ['conference']
 date: 2023-07-18
+tags: ["lightning","taproot"]
+speakers: ["Arik Sosman"]
+categories: ["conference"]
 ---
 My name is Arik.
 I work at Spiral.
