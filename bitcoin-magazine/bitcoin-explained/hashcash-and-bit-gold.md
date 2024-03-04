@@ -1,11 +1,10 @@
 ---
 title: "Hashcash and Bit Gold"
-transcript_by: kouloumos via tstbtc v1.0.0 --needs-review
+transcript_by: Emmanuel-Develops via review.btctranscripts.com
 media: https://bitcoinexplainedpodcast.com/@nado/episodes/episode-88-hashcash-and-bit-gold-a5cjn
-tags: []
-speakers: ['Sjors Provoost', 'Aaron van Wirdum']
-categories: ['podcast']
 date: 2024-01-03
+speakers: ["Sjors Provoost","Aaron van Wirdum"]
+categories: ["podcast"]
 ---
 Speaker 0: 00:00:18
 
