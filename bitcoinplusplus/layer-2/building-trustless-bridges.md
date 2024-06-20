@@ -1,10 +1,9 @@
 ---
 title: "Building Trustless Bridges"
-transcript_by: kouloumos via tstbtc v1.0.0 --needs-review
+transcript_by: Emmanuel-Develops via review.btctranscripts.com
 media: https://www.youtube.com/watch?v=M40yzuv6DNY
-tags: []
-speakers: ['John Light']
-categories: ['conference']
+speakers: ["John Light"]
+categories: ["conference"]
 date: 2023-07-06
 ---
 Thank you all for coming to my talk.
