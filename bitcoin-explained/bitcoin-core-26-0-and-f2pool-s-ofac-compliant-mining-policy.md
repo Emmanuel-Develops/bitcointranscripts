@@ -58,7 +58,7 @@ Sjors Provoost: 00:00:40
 
 Too many conferences.
 In fact, Bitcoin Indonesia, Nastrasia in Tokyo.
-
+*
 
 Aaron van Wirdum: 00:00:45
 
@@ -72,6 +72,7 @@ Aaron van Wirdum: 00:00:51
 
 All right.
 Well, you were gone for so long that there's a new Bitcoin Core release.
+testing markdown formatting is kept on save, this should be *italicized* and this **bold**
 
 Sjors Provoost: 00:00:55
 
