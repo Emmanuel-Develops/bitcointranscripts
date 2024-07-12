@@ -22,11 +22,9 @@ Sjors Provoost: 00:00:25
 
 What's up?
 
-
 Aaron van Wirdum: 00:00:25
 
 Welcome back.
-
 
 Sjors Provoost: 00:00:26
 
@@ -72,7 +70,7 @@ Aaron van Wirdum: 00:00:51
 
 All right.
 Well, you were gone for so long that there's a new Bitcoin Core release.
-testing markdown formatting is kept on save, this should be *italicized* and this **bold**
+testing markdown formatting is kept on save, this should be *italicized* and this **bold** \n test new line
 
 Sjors Provoost: 00:00:55
 
@@ -353,6 +351,7 @@ But the impact is pretty minor.
 
 Aaron van Wirdum: 00:08:22
 
+But the impact is pretty minor.
 Yeah, well another relevant episode perhaps to listen to in this context is the episode we did on Stratum v2, because Stratum V2 is kind of a solution for this problem if we consider it a problem, right?
 
 Sjors Provoost: 00:08:36
