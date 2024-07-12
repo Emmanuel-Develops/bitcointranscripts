@@ -21,7 +21,15 @@ Hello Sjors.
 Sjors Provoost: 00:00:25
 
 What's up?
+
+
+Aaron van Wirdum: 00:00:25
+
 Welcome back.
+
+
+Sjors Provoost: 00:00:26
+
 Thank you.
 
 Aaron van Wirdum: 00:00:28
@@ -50,6 +58,7 @@ Sjors Provoost: 00:00:40
 
 Too many conferences.
 In fact, Bitcoin Indonesia, Nastrasia in Tokyo.
+
 
 Aaron van Wirdum: 00:00:45
 
