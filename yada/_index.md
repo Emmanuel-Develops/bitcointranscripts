@@ -1,0 +1,5 @@
+---
+title: Yada
+---
+
+{{< childpages >}}

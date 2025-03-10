@@ -1,0 +1,5 @@
+---
+title: Mada
+---
+
+{{< childpages >}}
